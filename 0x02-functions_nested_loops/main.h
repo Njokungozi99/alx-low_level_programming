@@ -1,22 +1,15 @@
-#include "main.h"
-
-/**
- * main - print putchar
- * Return: always 0
- */
-
-int main(void)
-{
-	_putchar('_');
-	_putchar('p');
-	_putchar('u');
-	_putchar('t');
-	_putchar('c');
-	_putchar('h');
-	_putchar('a');
-	_putchar('r');
-	_putchar('\n');
-
-	return (0);
-
-}
+int _putchar (char c);
+void print _alphabet (void);
+void print alphabet x10 (void) :
+int islower (int c) ;
+int_ isalpha(int c):
+int print sign(int n);
+int
+_abs (int n);
+int print_last digit (int n);
+void jack bauer (void);
+void times table (void);
+int add (int a, int b) ;
+void print to 98(int n) ;
+void print times table(int n);
+void putformat(int);
